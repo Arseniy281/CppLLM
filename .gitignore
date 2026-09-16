@@ -1,0 +1,17 @@
+build/
+cmake-build-*/
+.vscode/
+.idea/
+.DS_Store
+
+*.o
+*.d
+*.a
+*.so
+*.dylib
+*.exe
+
+Tests/
+Data/data.txt
+
+Models/ToyModel/ModelFiles/
